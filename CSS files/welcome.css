@@ -1,0 +1,61 @@
+body
+{
+	margin: 0;
+}
+.wallpaper
+{
+	background-image:url("D:/project instant system/portfolio/images/welcome1.gif"); 
+	background-size: cover;
+	background-size: 100%;
+	position: fixed;
+}
+.vikaslogo
+{
+	color: black;
+	text-align: center;
+	font-size: 4vw;
+	margin-top: 130px;
+	margin-left: 420px;
+	font-variant: small-caps;
+}
+.indiaImage
+{
+	float: right;
+	width: 37px;
+	height: 22px;
+}
+#mySideNav a{
+	position: absolute;
+	left: -98px;
+	transition: 0.5s;
+	padding: 16px;
+	width: 108px;
+	text-decoration: none;
+	font-size: 18px;
+	color: white;
+	border-radius: 0px 5px 5px 0px;
+}
+
+#mySideNav a:hover{
+	left:0;
+}
+#facebook{
+	top:20px;
+	background-color: rgb(0,0,205);
+}
+#gmail{
+	top: 80px;
+	background-color: rgb(178,34,34);
+}
+#instagram{
+	top: 140px;
+	background-color: rgb(255,150,80);
+}
+#skype{
+	top: 200px;
+	background-color: rgb(0,0,450);
+}
+#Linkedin{
+	top: 260px;
+	background-color: skyblue;
+}
