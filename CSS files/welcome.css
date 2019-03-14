@@ -4,7 +4,7 @@ body
 }
 .wallpaper
 {
-	background-image:url("D:/project instant system/portfolio/images/welcome1.gif"); 
+	background-image:url("../images/welcome1.gif"); 
 	background-size: cover;
 	background-size: 100%;
 	position: fixed;

@@ -46,7 +46,7 @@ nav a
 	background-color: black;
 }
 .me{
-	background-image: url("D:/project instant system/portfolio/images/me3.gif");
+	background-image: url("../images/me3.gif");
 	margin-top: -50px;
 	background-size: cover;
 	height: 50vh;
@@ -54,6 +54,7 @@ nav a
 	font-size: 17px;
 	color:white;
 	padding: 12vw;
+	overflow: auto;
 }
 .me img:hover {
 box-shadow: 0 0 15px 12px gray;
@@ -66,12 +67,13 @@ box-shadow: 0 0 15px 12px gray;
   width: 250px;
 }
 .ProFile {
-	background-image: url("D:/project instant system/portfolio/images/me2.gif");
+	background-image: url("../images/me2.gif");
 	margin: 0;
 	font-size: 17px;
 	background-size: cover;
 	color:white;
 	padding: 150px;
+	overflow: auto;
 }
 .ProFile img:hover {
 box-shadow: 0 0 15px 12px rgba(0, 140, 186, 0.5);
@@ -84,7 +86,7 @@ box-shadow: 0 0 15px 12px rgba(0, 140, 186, 0.5);
   width: 250px;
 }
 .Skill {
-	background-image: url("D:/project instant system/portfolio/images/skills.png");
+	background-image: url("../images/skills.png");
     width: 100%;
     height: calc(100vh);
     margin-top: -24px;
@@ -99,7 +101,7 @@ box-shadow: 0 0 15px 12px rgba(0, 140, 186, 0.5);
 }
 .WorkAndeducation {
 	margin: 0;
-	background-image: url("D:/project instant system/portfolio/images/WorkAndeducation.png");
+	background-image: url("../images/workAndEducation.png");
     width: 205vh;
     height: 80vh;
 	color:black;
@@ -115,7 +117,7 @@ box-shadow: 0 0 15px 12px rgba(0, 140, 186, 0.5);
 	font-size: 40px;
 }
 .educationSection{
-	background-image: url(../images/pic_skills.jpg);
+	background-image: url("../images/pic_skills.jpg");
     background-position-x: center;
     background-position-y: 10px;
     background-size: initial;
@@ -140,7 +142,7 @@ box-shadow: 0 0 15px 12px rgba(0, 140, 186, 0.5);
     padding: 1px;
 }
 .Colleague {	
-	background-image: url("D:/project instant system/portfolio/images/Colleagues.jpg");
+	background-image: url("../images/Colleagues.jpg");
 	margin: 0;
 	width: 100%;
 	height: 100vh;
@@ -215,7 +217,7 @@ box-shadow: 0 0 15px 12px rgba(0, 140, 186, 0.5);
    	font-family: "Times New Roman";
 }
 .Contact{
-	background-image: url("D:/project instant system/portfolio/images/About.jpg");
+	background-image: url("../images/About.jpg");
 	background-size: cover;
 	width: 100%;
 	height: 100vh;
@@ -276,7 +278,7 @@ button:hover
 footer
 {
     margin: 0;
-    background-image: url("D:/project instant system/portfolio/images/thankyou.gif");
+    background-image: url("../images/thankyou.gif");
     width: 100%;
     background-size: cover;
     height: 92vh;
