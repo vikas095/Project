@@ -1,6 +1,6 @@
 body
 {
-	margin: 0;
+  margin: 0;
 }
 header
 {
@@ -8,25 +8,25 @@ header
     position: fixed;
     background: black;
     width: 99vw;
-}	
+} 
 .logoOnhead
 {
-	margin: 0;
-	height: 60px;
+  margin: 0;
+  height: 60px;
     width: 275px;
 }
 nav{
-	float: right;
-	height: 28px;
-	padding-top: 18px;
+  float: right;
+  height: 28px;
+  padding-top: 18px;
 }
-nav a 	
+nav a   
 {
-	color: white;
-	text-align: center;
-	padding: 14px 16px;
-	text-decoration: none;
-	font-size: 17px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
 }
 .topnav a:hover 
 {
@@ -41,83 +41,83 @@ nav a
 }
 .video
 {
-	padding-top: 29px;
-	width: 100%;
-	background-color: black;
+  padding-top: 29px;
+  width: 100%;
+  background-color: black;
 }
 .me{
-	background-image: url("../images/me3.gif");
-	margin-top: -50px;
-	background-size: cover;
-	height: 50vh;
-	background-repeat: no-repeat;
-	font-size: 17px;
-	color:white;
-	padding: 12vw;
-	overflow: auto;
+  background-image: url("../images/me3.gif");
+  
+  margin-top: -50px;
+  background-size: cover;
+  font-size: 17px;
+  color:white;
+  padding: 150px;
+  overflow: auto;
 }
+
 .me img:hover {
 box-shadow: 0 0 15px 12px gray;
 }
 .introImage1{
-	float: right;
+  float: right;
   border: 1px solid #ddd;
   border-radius: 4px;
   padding:5px;
   width: 250px;
 }
 .ProFile {
-	background-image: url("../images/me2.gif");
-	margin: 0;
-	font-size: 17px;
-	background-size: cover;
-	color:white;
-	padding: 150px;
-	overflow: auto;
+  background-image: url("../images/me2.gif");
+  margin: 0;
+  font-size: 17px;
+  background-size: cover;
+  color:white;
+  padding: 150px;
+  overflow: auto
 }
 .ProFile img:hover {
 box-shadow: 0 0 15px 12px rgba(0, 140, 186, 0.5);
 }
 .introImage2{
-	float: right;
+  float: right;
   border: 1px solid #ddd;
   border-radius: 4px;
   padding:5px;
   width: 250px;
 }
 .Skill {
-	background-image: url("../images/skills.png");
+  background-image: url("../images/skills.png");
     width: 100%;
     height: calc(100vh);
     margin-top: -24px;
-	background-size: cover;
+  background-size: cover;
 }
 .skillPara
 {
-	margin-top: -65px;
-	font-family: "Andalus";
-	text-align: center;
-	font-size: 40px;
+  margin-top: -65px;
+  font-family: "Andalus";
+  text-align: center;
+  font-size: 40px;
 }
 .WorkAndeducation {
-	margin: 0;
-	background-image: url("../images/workAndEducation.png");
+  margin: 0;
+  background-image: url("../images/workAndEducation.png");
     width: 205vh;
     height: 80vh;
-	color:black;
-	background-size: cover;
-	padding-top: 140px;
+  color:black;
+  background-size: cover;
+  padding-top: 140px;
 }
 
 .eductionListPara
 {
-	margin-top: -65px;
-	font-family: "Andalus";
-	text-align: center;
-	font-size: 40px;
+  margin-top: -65px;
+  font-family: "Andalus";
+  text-align: center;
+  font-size: 40px;
 }
 .educationSection{
-	background-image: url("../images/pic_skills.jpg");
+  background-image: url(../images/pic_skills.jpg);
     background-position-x: center;
     background-position-y: 10px;
     background-size: initial;
@@ -141,20 +141,20 @@ box-shadow: 0 0 15px 12px rgba(0, 140, 186, 0.5);
     font-size: 26px;
     padding: 1px;
 }
-.Colleague {	
-	background-image: url("../images/Colleagues.jpg");
-	margin: 0;
-	width: 100%;
-	height: 100vh;
-	font-size: 17px;
-	color:white;
+.Colleague {  
+  background-image: url("../images/Colleagues.jpg");
+  margin: 0;
+  width: 100%;
+  height: 100vh;
+  font-size: 17px;
+  color:white;
 }
 .team_paragraph{
-	font-family: Comic Sans MS;
-	margin: 0; 
-	font-size:47px;
-	color: black;
-	text-align: center;
+  font-family: Comic Sans MS;
+  margin: 0; 
+  font-size:47px;
+  color: black;
+  text-align: center;
 }
 .team_image
 {
@@ -164,65 +164,65 @@ box-shadow: 0 0 15px 12px rgba(0, 140, 186, 0.5);
     margin: 22px;
     margin-left: 111px;
 }
-.image {	
-	width: 10%;
+.image {  
+  width: 10%;
 }
 .candcplus
 {
     padding-top: 1vw;
     padding-left: 6vw;
     font-size: 24px;
-   	font-family: "Times New Roman";
+    font-family: "Times New Roman";
 }
 .java
 {
     padding-top: 2vw;
     padding-left: 18vw;
     font-size: 24px;
-   	font-family: "Times New Roman";
+    font-family: "Times New Roman";
 }
 .htmlandcss
 {
     padding-top: 1vw;
     padding-left: 25vw;
     font-size: 24px;
-   	font-family: "Times New Roman";
+    font-family: "Times New Roman";
 }
 .javascript
 {
     padding-top: 0vw;
     padding-left: 39vw;
     font-size: 24px;
-   	font-family: "Times New Roman";
+    font-family: "Times New Roman";
 }
 .nodejs
 {
     padding-top: 7vw;
     padding-left: 53vw;
     font-size: 24px;
-   	font-family: "Times New Roman";
+    font-family: "Times New Roman";
 }
 .rubyonrails
 {
     padding-top: 0vw;
     padding-left: 62vw;
     font-size: 24px;
-   	font-family: "Times New Roman";
+    font-family: "Times New Roman";
 }
 .comingsoon
 {
     padding-top: 3vw;
     padding-left: 74vw;
     font-size: 24px;
-   	font-family: "Times New Roman";
+    font-family: "Times New Roman";
 }
 .Contact{
-	background-image: url("../images/About.jpg");
-	background-size: cover;
-	width: 100%;
-	height: 100vh;
-	font-family: "Times New Roman";
-	font-size: 15px;
+  background-image: url("../images/About.jpg");
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+  font-family: "Times New Roman";
+  font-size: 15px;
 }
 .workandeducationtitle
 {
@@ -237,43 +237,43 @@ box-shadow: 0 0 15px 12px rgba(0, 140, 186, 0.5);
     padding-top: 12vh;
 }
 input[type=text] {
-	background-color: rgb(220,220,220);
-	width: 100%;
-	padding: 12px 20px;
-	margin: 8px 0;
-	font-family:"Tempus Sans ITC";
-	border-bottom: 2px solid black;
+  background-color: rgb(220,220,220);
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  font-family:"Tempus Sans ITC";
+  border-bottom: 2px solid black;
 }
 textarea {
-	background-color: rgb(220,220,220);
-	width: 100%;
-	height: 150px;
-	padding: 12px 20px;
-	border-radius: 4px;
-	border-bottom: 2px solid black;
-	font-size: 16px;
-	resize: none;
-	font-family:"Tempus Sans ITC";
+  background-color: rgb(220,220,220);
+  width: 100%;
+  height: 150px;
+  padding: 12px 20px;
+  border-radius: 4px;
+  border-bottom: 2px solid black;
+  font-size: 16px;
+  resize: none;
+  font-family:"Tempus Sans ITC";
 }
 button
 {
-	margin: 0;
-	width: 15vh;
+  margin: 0;
+  width: 15vh;
     height: 10vh;
-	border-radius: 50%;
-	background-color: rgb(220,220,220);
-	border: none;
+  border-radius: 50%;
+  background-color: rgb(220,220,220);
+  border: none;
 
 }
 button:hover
 {
-	background-color: rgb(113,113,113);
-	color: white;
+  background-color: rgb(113,113,113);
+  color: white;
 }
 .tableheading
 {
-	font-family:"Tempus Sans ITC";
-	font-size: 30px;
+  font-family:"Tempus Sans ITC";
+  font-size: 30px;
 }
 footer
 {
